@@ -11,4 +11,4 @@ This paper examines how U.S. colleges and universities are financed and what the
 NCES, IPEDS Table 5: Amount and percentage distribution of revenues and expenses at Title IV institutions.
 
 ## Files
-- `Higher-Ed-Funding-Research.pdf`: the full paper
+   - [Read the full paper (PDF)](Higher-Ed-Funding-Research.pdf)
